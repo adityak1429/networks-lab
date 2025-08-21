@@ -1,0 +1,11 @@
+Open code folder and run main.py,
+
+run python3 main.py 2>/dev/null
+
+to avoid cluttering output with ALSA config errors
+
+first give message input and the give input for destination mac address
+
+configure device mac by editing the variable MAC in .env file
+
+
